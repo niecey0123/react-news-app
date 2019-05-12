@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.Head{
+  background-color: navy;
+  width: 100vw;
+  border: solid black;
+  color: aliceblue;
+}

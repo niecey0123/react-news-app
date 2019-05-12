@@ -1,0 +1,16 @@
+.article{
+    border: solid black;
+    width: 60vw;
+    margin-left: 40%;
+}
+.article-section{
+    border:solid grey;
+    background-color: antiquewhite;
+    height: 200px;
+    padding: 10px;
+
+}
+h4{
+    text-decoration: underline;
+}
+
